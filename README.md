@@ -29,6 +29,13 @@ This Java program collects and processes student information using variables, da
 2. Run `Main.java`
 3. Enter required inputs in console
 
+
+---
+
+## 👨‍💻 Author
+Godfred Bekoe
+
+
 ---
 
 ## 📂 Project Structure
